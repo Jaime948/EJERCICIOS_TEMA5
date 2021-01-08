@@ -1,0 +1,94 @@
+"¡Hola, todo el mundo!"
+Operadores aritméticos
+Estos son los símbolos aritméticos básicos: suma +, resta -, multiplicación *, división / y potenciación ^.
+2 + 2
+Operador	Nombre	Ejemplo	Significado
+<
+menor que
+a<b
+a es menor que b
+>
+mayor que
+a>b
+a es mayor que b
+==
+igual a
+a==b
+a es igual a b
+~=
+no igual a
+a~=b
+a no es igual a b
+<=
+menor que o igual a
+a<=5
+
+a es menor que o igual a b
+>=
+mayor que o igual a
+break
+callable (a partir de PHP 5.4)	case
+catch
+class
+
+clone
+const
+continue
+declare
+default
+
+die()
+do
+echo
+else
+elseif
+
+empty()
+enddeclare
+endfor
+endforeach
+endif
+
+endswitch
+endwhile
+eval()
+exit()
+extends
+
+final
+finally (a partir de PHP 5.5)	for
+foreach
+function
+
+global
+goto (a partir de PHP 5.3)	if
+implements
+include
+
+include_once
+instanceof
+insteadof(a partir de PHP 5.4)	interface
+isset()
+
+list()
+namespace(a partir de PHP 5.3)	new
+or
+print
+
+private
+protected
+public
+require
+require_once
+
+return
+static
+switch
+throw
+trait (a partir de PHP 5.4)
+try
+
+ 2, 34, 5, 3.1416, 4.13, 0.1
+
+cont= 1
+
